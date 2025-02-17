@@ -65,7 +65,8 @@ const sl = {
 				lastname: 'Seferovic',
 				role: 'Vodja in svetovalka',
 				languages: 'nemščina, slovenščina',
-				mailto: 'safefireplace9@gmail.com',
+				phone: '0038670868442',
+				mailto: 'mssmkamini80@gmail.com',
 				mailBtn: 'Kontaktirajte Nihado'
 			},
 			{
@@ -73,7 +74,8 @@ const sl = {
 				lastname: 'Seferovic',
 				role: 'Ustanovitelj in monter',
 				languages: 'slovenščina, hrvaščina',
-				mailto: 'safefireplace9@gmail.com',
+				phone: '0038641278221',
+				mailto: 'mssmkamini80@gmail.com',
 				mailBtn: 'Kontaktirajte Sefka'
 			},
 			{
@@ -81,7 +83,8 @@ const sl = {
 				lastname: 'Seferovic',
 				role: 'Glavni monter',
 				languages: 'angleščina, slovenščina',
-				mailto: 'safefireplace9@gmail.com',
+				phone: '0038651202315' ,
+				mailto: 'beno.seferovic9@gmail.com',
 				mailBtn: 'Kontaktirajte Bena'
 			},
 		]

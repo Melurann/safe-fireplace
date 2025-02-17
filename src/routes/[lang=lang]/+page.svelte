@@ -7,6 +7,7 @@
 		LeafIcon,
 		MonitorIcon,
 		PaletteIcon,
+		PhoneIcon,
 		ShieldIcon,
 		WrenchIcon
 	} from 'lucide-svelte';
@@ -92,7 +93,7 @@
 
 						<p class="text-gray-400 text-center">{member.role()}</p>
 						<p class="text-center">{$LL.team.lang()}{@html member.languages()}</p>
-
+						<p class="text-center flex items-center gap-2"><PhoneIcon />{@html member.phone()}</p>
 						<a
 							class="bg-[#333] text-white w-full max-w-[12rem] text-center py-2 mt-2 rounded-lg hover:bg-[#555] transition"
 							href="mailto:{member.mailto()}"

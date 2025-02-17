@@ -191,7 +191,11 @@ type RootTranslation = {
 				 */
 				languages: string
 				/**
-				 * s​a​f​e​f​i​r​e​p​l​a​c​e​9​@​g​m​a​i​l​.​c​o​m
+				 * 0​0​3​8​6​7​0​8​6​8​4​4​2
+				 */
+				phone: string
+				/**
+				 * m​s​s​m​k​a​m​i​n​i​8​0​@​g​m​a​i​l​.​c​o​m
 				 */
 				mailto: string
 				/**
@@ -217,7 +221,11 @@ type RootTranslation = {
 				 */
 				languages: string
 				/**
-				 * s​a​f​e​f​i​r​e​p​l​a​c​e​9​@​g​m​a​i​l​.​c​o​m
+				 * 0​0​3​8​6​4​1​2​7​8​2​2​1
+				 */
+				phone: string
+				/**
+				 * m​s​s​m​k​a​m​i​n​i​8​0​@​g​m​a​i​l​.​c​o​m
 				 */
 				mailto: string
 				/**
@@ -243,7 +251,11 @@ type RootTranslation = {
 				 */
 				languages: string
 				/**
-				 * s​a​f​e​f​i​r​e​p​l​a​c​e​9​@​g​m​a​i​l​.​c​o​m
+				 * 0​0​3​8​6​5​1​2​0​2​3​1​5
+				 */
+				phone: string
+				/**
+				 * b​e​n​o​.​s​e​f​e​r​o​v​i​c​9​@​g​m​a​i​l​.​c​o​m
 				 */
 				mailto: string
 				/**
@@ -1186,7 +1198,11 @@ export type TranslationFunctions = {
 				 */
 				languages: () => LocalizedString
 				/**
-				 * safefireplace9@gmail.com
+				 * 0038670868442
+				 */
+				phone: () => LocalizedString
+				/**
+				 * mssmkamini80@gmail.com
 				 */
 				mailto: () => LocalizedString
 				/**
@@ -1212,7 +1228,11 @@ export type TranslationFunctions = {
 				 */
 				languages: () => LocalizedString
 				/**
-				 * safefireplace9@gmail.com
+				 * 0038641278221
+				 */
+				phone: () => LocalizedString
+				/**
+				 * mssmkamini80@gmail.com
 				 */
 				mailto: () => LocalizedString
 				/**
@@ -1238,7 +1258,11 @@ export type TranslationFunctions = {
 				 */
 				languages: () => LocalizedString
 				/**
-				 * safefireplace9@gmail.com
+				 * 0038651202315
+				 */
+				phone: () => LocalizedString
+				/**
+				 * beno.seferovic9@gmail.com
 				 */
 				mailto: () => LocalizedString
 				/**

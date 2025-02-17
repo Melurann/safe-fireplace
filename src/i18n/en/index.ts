@@ -65,7 +65,8 @@ const en = {
 				lastname: 'Seferovic',
 				role: 'Manager & Consultant',
 				languages: 'German, Slovenian',
-				mailto: 'safefireplace9@gmail.com',
+				phone: '0038670868442',
+				mailto: 'mssmkamini80@gmail.com',
 				mailBtn: 'Contact Nihada'
 			},
 			{
@@ -73,7 +74,8 @@ const en = {
 				lastname: 'Seferovic',
 				role: 'Founder & Installer',
 				languages: 'Slovenian, Croatian',
-				mailto: 'safefireplace9@gmail.com',
+				phone: '0038641278221',
+				mailto: 'mssmkamini80@gmail.com',
 				mailBtn: 'Contact Sefko'
 			},
 			{
@@ -81,7 +83,8 @@ const en = {
 				lastname: 'Seferovic',
 				role: 'Head Installer',
 				languages: 'English, Slovenian',
-				mailto: 'safefireplace9@gmail.com',
+				phone: '0038651202315',
+				mailto: 'beno.seferovic9@gmail.com',
 				mailBtn: 'Contact Beno'
 			},
 		]
