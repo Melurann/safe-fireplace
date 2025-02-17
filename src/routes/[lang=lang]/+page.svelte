@@ -79,7 +79,7 @@
 			{#each Object.values($LL.team.members) as member}
 				<div class="min-w-[284px] p-4">
 					<div
-						class="flex flex-col h-80 justify-between items-center max-w-md shadow-lg rounded-lg border border-gray-200 shadow-slate-100 p-8 mx-3 lg:mx-auto"
+						class="flex flex-col justify-between gap-3 items-center max-w-md shadow-lg rounded-lg border border-gray-200 shadow-slate-100 p-8 mx-3 lg:mx-auto"
 					>
 						<div
 							class="bg-gray-300 rounded-full w-20 h-20 flex items-center justify-center text-2xl font-bold"
