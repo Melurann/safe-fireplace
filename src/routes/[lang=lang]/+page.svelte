@@ -17,7 +17,7 @@
 </script>
 
 <div class="flex flex-col min-h-screen md:mx-32 sm:mx-16 mx-8">
-	<div id="home" class="grid col-3 grid-cols-6 gap-2 py-32 justify-items-center">
+	<div id="home" class="grid col-3 grid-cols-6 sm:gap-2 gap-8 sm:py-32 py-16 justify-items-center">
 		<!-- Quote -->
 		<div
 			class="flex items-center justify-center min-h-28 w-full h-full sm:col-span-3 col-span-6 mt-4 order-first shadow-lg rounded-lg border border-gray-200 shadow-slate-200"
